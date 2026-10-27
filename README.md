@@ -37,4 +37,4 @@ A breadboard hardware project featuring a push-button switch that turns an LED o
 ## Repository Structure
 
 ├── README.md         # Project documentation and engineering notes
-└── schematic/        # Circuit diagrams and screenshots
+└── Grand Snaget.png       #screenshots
